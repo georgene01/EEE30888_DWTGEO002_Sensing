@@ -13,8 +13,10 @@ The goal of this project is to design a reliable and efficient printed circuit b
 - **Components List**: A list of all components required for the PCB, and their datasheets. [Components List](Components List)
 - **Simulation Data**: Results and data from various simulations conducted during the design phase. [Simulation Data](Simulation Data)
 - **Documentation**: Additional project notes and design considerations [Documentation](Documentation)
-                      - Bill of materials
-                      - jlcpcb.com proof of order acceptance
+
+                     - Bill of materials
+
+                     - jlcpcb.com proof of order acceptance
 
 ## Contributing
 As I am new to GitHub and continuously learning more about electronic design and PCB development, I welcome contributions, suggestions, and feedback. Please feel free to fork this repository, make changes, and submit a pull request.
