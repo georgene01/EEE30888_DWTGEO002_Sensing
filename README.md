@@ -14,12 +14,6 @@ The goal of this project is to design a reliable and efficient printed circuit b
 - **Simulation Data**: Results and data from various simulations conducted during the design phase.
 - **Documentation**: Additional project notes and design considerations.
 
-## Getting Started
-To get started with this project:
-1. Clone this repository to your local machine.
-2. Review the `Components List` to acquire necessary parts.
-3. Use the `Schematics` and `PCB Layouts` for assembling and manufacturing.
-
 ## Contributing
 As I am new to GitHub and continuously learning more about electronic design and PCB development, I welcome contributions, suggestions, and feedback. Please feel free to fork this repository, make changes, and submit a pull request.
 
@@ -27,6 +21,6 @@ As I am new to GitHub and continuously learning more about electronic design and
 This project is released under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-If you have any questions or would like to reach out for collaboration, please contact me at [my-email@myuniversity.edu](mailto:my-email@myuniversity.edu).
+If you have any questions or would like to reach out for collaboration, please contact me at [DWTGEO002@myuct.ac.za].
 
 Thank you for visiting my project!
