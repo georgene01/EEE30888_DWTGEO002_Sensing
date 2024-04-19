@@ -11,6 +11,7 @@ The goal of this project is to design a reliable and efficient printed circuit b
 - **Schematics**: Detailed circuit diagram. [Schematics](Schematics)
 - **PCB Layouts**: Layout files, and position files that can be used for manufacturing the PCB. [PCB Layouts](PCB_Layouts)
 - **GERBERS:** Gerber files [Gerbers](Gerbers)
+- **Project Briefs:** Project layout briefs and results and data from breadboard design phase.[Project Briefs](Project_Briefs)
 - **Components List**: A list of all components required for the PCB, and their datasheets. [Components List](Components_List)
 - **Simulation Data**: Results and data from various simulations conducted during the design phase. [Simulation Data](Simulation_Data)
 - **JLCPCB Submission files:** Gerber files and position files [JLCPCB submission files](JLCPCB_Sub_files)
