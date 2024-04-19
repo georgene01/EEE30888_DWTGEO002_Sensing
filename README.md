@@ -8,11 +8,11 @@ Hello! My name is Georgene de Wet, and I am a third-year mechatronics student at
 The goal of this project is to design a reliable and efficient printed circuit board (PCB) that will enhance the sensing capabilities of a micro mouse used in maze navigation. The sensing subsystem is crucial as it detects obstacles and guides the micro mouse through the maze effectively.
 
 ## Repository Contents
-- **Schematics**: Detailed circuit diagram.
-- **PCB Layouts**: Layout files, and position files that can be used for manufacturing the PCB.
-- **Components List**: A list of all components required for the PCB, and their datasheets.
-- **Simulation Data**: Results and data from various simulations conducted during the design phase.
-- **Documentation**: Additional project notes and design considerations
+- **Schematics**: Detailed circuit diagram. [Schematics]
+- **PCB Layouts**: Layout files, and position files that can be used for manufacturing the PCB. [PCB Layouts]
+- **Components List**: A list of all components required for the PCB, and their datasheets. [Components List]
+- **Simulation Data**: Results and data from various simulations conducted during the design phase. [Simulation Data]
+- **Documentation**: Additional project notes and design considerations [Documentation]
                       - Bill of materials
                       - jlcpcb.com proof of order acceptance
 
