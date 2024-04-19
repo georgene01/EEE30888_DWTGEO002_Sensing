@@ -20,6 +20,8 @@ The goal of this project is to design a reliable and efficient printed circuit b
 
                      - jlcpcb.com proof of order acceptance
 
+                     - high level context diagram
+
 ## Contributing
 As I am new to GitHub and continuously learning more about electronic design and PCB development, I welcome contributions, suggestions, and feedback. Please feel free to fork this repository, make changes, and submit a pull request.
 
